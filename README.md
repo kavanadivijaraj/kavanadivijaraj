@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavanadivijaraj
-- 👀 I’m interested in coding, data science, machine learning, data analytics
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on coding, python
+- 👀 I’m interested in Coding, Data Science, Machine Learning, Data Analytics and their application in solving corporate projects efficiently.
+- 🌱 I’m currently a learner of Data Science
+- 💞️ I’m looking to collaborate on Coding, Python, Data Science and ML Projects
 - 📫 How to reach me kavana.divijaraj@gmail.com
 
 <!---
